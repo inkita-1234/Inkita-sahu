@@ -1,1 +1,1 @@
-# Inkita-sahu
+# MIT license
